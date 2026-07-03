@@ -24,7 +24,7 @@ from aiogram.filters import Command
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 
-BOT_TOKEN = "ВСТАВЬ_СЮДА_ТОКЕН"
+BOT_TOKEN = "8367142448:AAGvcZ24lUbFOy0ZOTLdLg2aHqJMA-lOmpY"
 RESULTS_TO_SEND = 3
 
 router = Router()
